@@ -107,12 +107,12 @@ If asked to write or revise repository files for this topic:
 
 ## References to read when needed
 
-- Read [references/teaching-map.zh.md](/C:/Users/柏子怡/Documents/codex问题/references/teaching-map.zh.md) when you need the teaching framework and routing map.
-- Read [references/copyable-prompts.zh.md](/C:/Users/柏子怡/Documents/codex问题/references/copyable-prompts.zh.md) when the user wants ready-to-send wording or prompt templates.
-- Read [references/repo-scope.zh.md](/C:/Users/柏子怡/Documents/codex问题/references/repo-scope.zh.md) when the task is about packaging, publishing, or explaining what this repo is and is not.
+- Read [references/teaching-map.zh.md](references/teaching-map.zh.md) when you need the teaching framework and routing map.
+- Read [references/copyable-prompts.zh.md](references/copyable-prompts.zh.md) when the user wants ready-to-send wording or prompt templates.
+- Read [references/repo-scope.zh.md](references/repo-scope.zh.md) when the task is about packaging, publishing, or explaining what this repo is and is not.
 
 ## Files in this repo
 
-- Read [README.md](/C:/Users/柏子怡/Documents/codex问题/README.md) for the human-facing explanation.
-- Read [QUICKSTART.zh.md](/C:/Users/柏子怡/Documents/codex问题/QUICKSTART.zh.md) for the shortest user-facing version.
+- Read [README.md](README.md) for the human-facing explanation.
+- Read [QUICKSTART.zh.md](QUICKSTART.zh.md) for the shortest user-facing version.
 - Prefer the `references/` files for reusable guidance instead of older raw notes.

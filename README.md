@@ -1,6 +1,6 @@
 # 飞书 Bridge 新手理解指南
 
-![飞书 Bridge 新手理解指南](/C:/Users/柏子怡/Documents/codex问题/assets/images/cover-bridge-guide.png)
+![飞书 Bridge 新手理解指南](assets/images/cover-bridge-guide.png)
 
 这不是一份“只给会代码的人看”的文档。
 
@@ -221,12 +221,12 @@ flowchart TD
 如果你是普通使用者：
 
 - 先看这份 `README.md`
-- 再看 [QUICKSTART.zh.md](/C:/Users/柏子怡/Documents/codex问题/QUICKSTART.zh.md)
+- 再看 [QUICKSTART.zh.md](QUICKSTART.zh.md)
 
 如果你是想把这套能力交给 agent：
 
 - 先看这份 `README.md`
-- 再看 [SKILL.md](/C:/Users/柏子怡/Documents/codex问题/SKILL.md)
+- 再看 [SKILL.md](SKILL.md)
 
 ## 这份文档的定位
 
