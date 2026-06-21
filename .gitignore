@@ -1,0 +1,12 @@
+.codex/
+.npm-cache/
+output/
+cc-connect-read/
+codex-wechat-read/
+wechat-agent-channel-read/
+check_codex_api.ps1
+codex_api_monitor_baseline.json
+feishu_cli.py
+find-skills-quick-guide-zh.md
+FEISHU_BRIDGE_GUIDE.md
+skills-lock.json
