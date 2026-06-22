@@ -1,5 +1,5 @@
 ---
-name: feishu-bridge-guide
+name: larkbot-bridge-helper
 description: Help users quickly understand Feishu Bridge, especially when they are confused about where a feature, command, permission, callback, event, local config, project file, or web admin page belongs. Use when the task is to explain Feishu bot setup, publish a Feishu Bridge tutorial, turn a setup guide into beginner-friendly documentation, or guide someone to the right configuration location before giving detailed steps.
 ---
 

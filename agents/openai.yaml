@@ -1,7 +1,7 @@
 interface:
   display_name: "Feishu Bridge Guide"
   short_description: "帮助新手快速理解飞书 Bridge 配置"
-  default_prompt: "Use $feishu-bridge-guide to classify a Feishu Bridge question before giving setup steps."
+  default_prompt: "Use $larkbot-bridge-helper to classify a Lark Bot Bridge question before giving setup steps."
 
 policy:
   allow_implicit_invocation: true

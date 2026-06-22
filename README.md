@@ -1,6 +1,6 @@
-# 飞书 Bridge 新手理解指南
+# Lark Bot Bridge Helper
 
-![飞书 Bridge 新手理解指南](https://raw.githubusercontent.com/michellebai0814/feishu-bridge-guide/main/assets/images/cover-bridge-guide.png)
+![Lark Bot Bridge Helper](https://raw.githubusercontent.com/michellebai0814/larkbot-bridge-helper/main/assets/images/cover-bridge-guide.png)
 
 这不是一份“只给会代码的人看”的文档。
 
